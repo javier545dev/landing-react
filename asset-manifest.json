@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40e4d04c.chunk.css",
+    "main.js": "/static/js/main.feaae47d.chunk.js",
+    "main.js.map": "/static/js/main.feaae47d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/js/2.ee4ab943.chunk.js": "/static/js/2.ee4ab943.chunk.js",
+    "static/js/2.ee4ab943.chunk.js.map": "/static/js/2.ee4ab943.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.40e4d04c.chunk.css.map": "/static/css/main.40e4d04c.chunk.css.map",
+    "static/js/2.ee4ab943.chunk.js.LICENSE.txt": "/static/js/2.ee4ab943.chunk.js.LICENSE.txt",
+    "static/media/Holding-Phone.2d7313c1.png": "/static/media/Holding-Phone.2d7313c1.png",
+    "static/media/Lagggom.b1c5cdf2.png": "/static/media/Lagggom.b1c5cdf2.png",
+    "static/media/Lagom.cc8f829e.svg": "/static/media/Lagom.cc8f829e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/js/2.ee4ab943.chunk.js",
+    "static/css/main.40e4d04c.chunk.css",
+    "static/js/main.feaae47d.chunk.js"
+  ]
+}
